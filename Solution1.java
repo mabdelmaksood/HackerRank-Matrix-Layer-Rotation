@@ -1,3 +1,4 @@
+//first solution, correct results, need optimization for runtime
 import java.io.*;
 import java.util.*;
 import java.text.*;
